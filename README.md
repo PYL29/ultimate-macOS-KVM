@@ -164,7 +164,6 @@ All of the dependencies, both required and optional, are listed below.
 <b>Optional</b>
 <ul>
 <li><b>Virtual Machine Manager (GUI)</b> 》 <code>virt-manager</code></li>
-<li><b>Virsh</b> 》 <code>virsh</code></li>
 <li><b>Discord Rich Presence (pypresence)</b> 》 <code>python-pypresence</code> or, using pip, install <code>pypresence</code></li>
 <li><b>Network Block Device (NBD)</b> 》 <code>nbd</code> required for mounting the OpenCore image for editing on host system
 </ul>
